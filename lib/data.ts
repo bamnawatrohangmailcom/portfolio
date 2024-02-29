@@ -4,9 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import calculator from "@/public/calculator.png";
 import todo from "@/public/todoapp.png";
-import portfolio from "@/public/portfolio.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import Portfolio from "@/public/portfolio.png";
 
 export const links = [
   {
@@ -68,7 +66,7 @@ export const projectsData = [
     description:
       "This is the my portfolio project to showcase my work experience",
     tags: ['React', 'Node.js', 'Tailwind','Typescript','Framer-motion','React-icons' ],
-    imageUrl: portfolio,
+    imageUrl: Portfolio,
     link: 'https://rameshwar-portfolio.netlify.app/'
   },
   {
